@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692559476 source:c:\users\ari\documents\imp\documentos\ingeniería en computación\taller de lenguaje i\ejercicios\práctica 1\pe12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
