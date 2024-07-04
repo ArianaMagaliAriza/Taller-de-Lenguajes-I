@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693750296 source:c:\users\ari\documents\imp\documentos\ingeniería en computación\taller de lenguaje i\ejercicios\práctica 2\strings\p2se6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
