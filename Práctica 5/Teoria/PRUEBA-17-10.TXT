@@ -1,0 +1,6 @@
+Generando mi primer archivo en C
+Esto
+es
+una
+prueba
+hola
